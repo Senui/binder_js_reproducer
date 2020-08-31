@@ -1,1 +1,1 @@
-# binder_js_reproducer
+Reproducer for https://github.com/jupyterhub/binderhub/issues/1146
